@@ -17,6 +17,7 @@
 - [js-multiaddr](https://github.com/jbenet/js-multiaddr)
 - [js-multihashing](https://github.com/jbenet/js-multihashing)
 - [js-multihash](https://github.com/jbenet/js-multihash)
+- [js-mafmt](https://github.com/whyrusleeping/js-mafmt)
 
 // libp2p @diasdavid review
 
