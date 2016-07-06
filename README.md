@@ -18,7 +18,7 @@
 - [js-multihashing](https://github.com/jbenet/js-multihashing)
 - [js-multihash](https://github.com/jbenet/js-multihash)
 
-// libp2p stack for @diasdavid review
+// libp2p @diasdavid review
 
 - [js-libp2p-secio](https://github.com/libp2p/js-libp2p-secio)
 - [js-libp2p-swarm](https://github.com/diasdavid/js-libp2p-swarm)
