@@ -7,8 +7,6 @@
 - [js-ipfs-unixfs](https://github.com/ipfs/js-ipfs-unixfs)
 - [js-ipfs-block-service](https://github.com/ipfs/js-ipfs-block-service)
 - [js-ipfs-block](https://github.com/ipfs/js-ipfs-block)
-- [js-libp2p-ipfs](https://github.com/ipfs/js-libp2p-ipfs)
-- [js-libp2p-ipfs-browser](https://github.com/ipfs/js-libp2p-ipfs-browser)
 - [js-peer-id](https://github.com/diasdavid/js-peer-id)
 - [js-peer-info](https://github.com/diasdavid/js-peer-info)
 - [js-peer-book](https://github.com/libp2p/js-peer-book)
@@ -21,6 +19,8 @@
 
 // libp2p @diasdavid review
 
+- [js-libp2p-ipfs](https://github.com/ipfs/js-libp2p-ipfs)
+- [js-libp2p-ipfs-browser](https://github.com/ipfs/js-libp2p-ipfs-browser)
 - [js-libp2p-secio](https://github.com/libp2p/js-libp2p-secio)
 - [js-libp2p-swarm](https://github.com/diasdavid/js-libp2p-swarm)
 - [js-libp2p-ping](https://github.com/diasdavid/js-libp2p-ping)
